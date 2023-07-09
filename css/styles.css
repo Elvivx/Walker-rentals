@@ -112,8 +112,9 @@ header{
     margin: 0 auto;
     margin-bottom: 20px;
     letter-spacing: 1px;
-    line-height: 17px;
+    line-height: 20px;
     font-weight: 600;
+    font-size: 15px;
 }
 .hero-btn{
     background: #fff;
